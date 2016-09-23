@@ -8,9 +8,9 @@ Convert FileZilla entries to Atom RemoteFTP.
 
 ## How to use?
 
-Clone this project;
-Export your FileZilla entries (FileZilla > File > Export > [Export Site Manager Entries] Ok );
-Run
+* Clone this project;
+* Export your FileZilla entries (FileZilla > File > Export > [Export Site Manager Entries] Ok );
+*Run
 ```sh
 $ php FileZillaToAtomRemoteFTP.php /PATH/TO/FileZilla.xml
 ```
