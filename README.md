@@ -1,6 +1,4 @@
-# FileZilla to Atom RemoteFTP
-
-Convert FileZilla entries to Atom RemoteFTP.
+# Convert FileZilla entries to Atom RemoteFTP
 
 * [Atom](https://atom.io)
 * [remote-ftp](https://atom.io/packages/remote-ftp)
