@@ -22,8 +22,6 @@ function search_server($root){
             search_server($folder);
         }
     }
-    
-    return $servers;
 }
 
 function parse_server($server){
